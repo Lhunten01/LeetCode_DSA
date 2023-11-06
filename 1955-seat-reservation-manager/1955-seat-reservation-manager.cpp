@@ -1,18 +1,18 @@
 class SeatManager {
 private:priority_queue<int,vector<int>,greater<int>>arr;
-  
+  int check=1;
 public:
     SeatManager(int n) {
-        for(int i=1;i<=n;i++)
-        {
-            arr.push(i);
-        }
     }
     
     int reserve() {
-        int x=arr.top();
+       if(!arr.empty()) {
+           int x=arr.top();
         arr.pop();
         return x;
+        }
+      check++;
+      return check-1;
     }
     
     void unreserve(int seatNumber) {
