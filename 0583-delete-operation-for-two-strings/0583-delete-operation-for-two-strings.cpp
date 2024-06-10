@@ -15,6 +15,6 @@ public:
             }
             prev=curr;
         }
-        return (n-curr[m])+(m-curr[m]);
+        return n+m-2*curr[m];
     }
 };
