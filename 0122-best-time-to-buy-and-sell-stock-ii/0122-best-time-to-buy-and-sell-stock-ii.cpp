@@ -1,24 +1,26 @@
 class Solution {
 public:
-     int findMax(bool buy,int i,vector<int>&prices,int n,vector<vector<long>>&dp)
-     {
+    int maxEarn(int i, long buy,vector<int>& prices,int n,vector<vector<long>>&dp)
+    {
         if(i==n)
-         return 0;
+        {
+            return 0;
+        }
+        long long profit=0;
          if(dp[i][buy]!=-1)
          return dp[i][buy];
-         int profit=0;
-         if(buy)
-         {
-            profit=max(prices[i]+findMax(!buy,i+1,prices,n,dp),findMax(buy,i+1,prices,n,dp));
-         }
-         else
-         profit=max(-prices[i]+findMax(!buy,i+1,prices,n,dp),findMax(buy,i+1,prices,n,dp));
-       return dp[i][buy]= profit;
-     }
+        if(buy==1)
+        {
+           profit=max(0+maxEarn(i+1,1,prices,n,dp),+prices[i]+maxEarn(i+1,0,prices,n,dp));
+        }
+        if(buy==0)
+           profit=max(0+maxEarn(i+1,0,prices,n,dp),-prices[i]+maxEarn(i+1,1,prices,n,dp));
+
+         return dp[i][buy]=profit;
+    }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        bool buy=false;
-       vector<vector<long>> dp(n, vector<long>(2, -1));
-        return findMax(buy,0,prices,n,dp);
+        vector<vector<long>>dp(n,vector<long>(2,-1));
+       return maxEarn(0,0,prices,n,dp);
     }
 };
