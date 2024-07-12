@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
