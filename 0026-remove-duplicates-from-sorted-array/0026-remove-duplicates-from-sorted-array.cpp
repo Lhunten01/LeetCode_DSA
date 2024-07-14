@@ -10,9 +10,9 @@ public:
             {
                 j++;
                 nums[j]=nums[i];
-                count++;
+            
             }
         }
-        return count;
+        return j+1;
     }
 };
