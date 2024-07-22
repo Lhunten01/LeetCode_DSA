@@ -31,7 +31,7 @@ public:
            ans.push_back(sol);
            st.pop();
         }
-        reverse(ans.begin(), ans.end());
+        // reverse(ans.begin(), ans.end());
         return ans;
     }
 };
