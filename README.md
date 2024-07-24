@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0048-rotate-image) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
