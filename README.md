@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
