@@ -166,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
