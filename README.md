@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Lhunten01/LeetCode_DSA/tree/master/3212-count-the-number-of-good-partitions) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Lhunten01/LeetCode_DSA/tree/master/3212-count-the-number-of-good-partitions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Lhunten01/LeetCode_DSA/tree/master/3212-count-the-number-of-good-partitions) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Combinatorics
+|  |
+| ------- |
+| [3212-count-the-number-of-good-partitions](https://github.com/Lhunten01/LeetCode_DSA/tree/master/3212-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
