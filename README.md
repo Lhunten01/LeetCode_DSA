@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0047-permutations-ii) |
 ## Binary Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
