@@ -1,23 +1,21 @@
 class Solution {
 public:
-      void find(vector<int> nums,vector<vector<int>>&ans,int index,vector<int>takein)
-      {
-          if(index>=nums.size()){//base case
-          ans.push_back(takein);
-          return;
-          }
-
-          find(nums,ans,index+1,takein);//exclude
-
-          int x=nums[index];//include
-          takein.push_back(x);
-          find(nums,ans,index+1,takein);
-      }
+     void subsets(int i,vector<vector<int>>&ans,vector<int>&col,vector<int>&nums)
+     {
+        if(i==nums.size())
+       { ans.push_back(col);
+       return ;
+       }
+       subsets(i+1,ans,col,nums);
+       
+       col.push_back(nums[i]);
+       subsets(i+1,ans,col,nums);
+       col.pop_back();
+     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<int>takein;
-        int index=0;
-        find(nums,ans,index,takein);
-        return ans;
+      vector<vector<int>>ans;
+      vector<int>col;
+      subsets(0,ans,col,nums);
+      return ans;
     }
 };
