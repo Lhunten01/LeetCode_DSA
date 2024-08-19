@@ -1,23 +1,24 @@
 class Solution {
 public:
     int countKConstraintSubstrings(string s, int k) {
-        int n=s.length();
+        int count1=0,count0=0;
+        int i=0,j=0;
         int count=0;
-        for(int i=0;i<n;i++)
-        {
-           int count0=0;
-           int count1=0;
-           for(int j=i;j<n;j++)
-           {
-              if(s[j]=='1')
-              count1++;
-              if(s[j]=='0')
-              count0++;
-              if(count1>k&&count0>k)
-              break;
-              else
-              count++;
-           }
+        int n=s.length();
+        while(j<n){
+            if(s[j]=='1')
+            count1++;
+            if(s[j]=='0')
+            count0++;
+            while(count1>k&&count0>k)
+                {  if(s[i]=='1')
+                  count1--;
+                   else
+                   count0--;
+                    i++;
+                }
+               count+=j-i+1;
+               j++;
         }
         return count;
     }
