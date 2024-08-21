@@ -9,7 +9,7 @@ public:
         }
         
     for(int index=i;index<n;index++)
-    { if(index>i&&candidates[index]==candidates[index-1])
+    { if(index!=i&&candidates[index]==candidates[index-1])
        continue;
        if(candidates[index]>target)
        break;
