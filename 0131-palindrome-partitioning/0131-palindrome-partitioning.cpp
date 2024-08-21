@@ -14,10 +14,9 @@ public:
      void givePalindrome(int index,string s,vector<vector<string>>&sol,vector<string>temp)
      {
         if(index==s.length())
-        {  if(temp.size()>0)
-           { 
+        {  
             sol.push_back(temp);
-           }
+           
            return;
         }
         for(int i=index;i<s.length();i++)
