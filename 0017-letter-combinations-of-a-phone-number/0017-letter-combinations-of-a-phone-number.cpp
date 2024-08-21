@@ -1,30 +1,27 @@
 class Solution {
 public:
-   void combination(string& digit,int index,string mapping[],vector<string>& ans,string intake)
-    {
-    if(index>=digit.length())
-    {
-        ans.push_back(intake);
-        return;
-    }
-       int number=digit[index]-'0';
-       string value=mapping[number];
-       for(int i=0;i<value.length();i++)
-       {
-           intake.push_back(value[i]);
-           combination(digit,index+1,mapping,ans,intake);
-           intake.pop_back();
+      void findCombination(int index,string digits,unordered_map<int,string>&mp,vector<string>&ans,string &s)
+      { if(index==digits.size())
+        {  
+            ans.push_back(s);
+            return;
         }
-     }
+            int x=digits[index]-'0';
+            for(int j=0;j<mp[x].size();j++)
+            {
+               s.push_back(mp[x][j]);
+               findCombination(index+1,digits,mp,ans,s);
+               s.pop_back();
+            }
+      }
     vector<string> letterCombinations(string digits) {
-       string mapping[10]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-        vector<string>ans;
-        int index=0;
-        string intake="";
-        if(digits.length()==0)
-            return ans;
-        combination(digits,index,mapping,ans,intake);
-        return ans;
-        
+        if (digits.size()==0)
+        return {};
+        unordered_map<int,string>mp;
+         mp[1]=""; mp[2]="abc"; mp[3]="def"; mp[4]="ghi";  mp[5]="jkl"; mp[6]="mno"; mp[7]="pqrs"; mp[8]="tuv"; mp[9]="wxyz";
+         vector<string>ans;
+         string s="";
+         findCombination(0,digits,mp,ans,s);
+         return ans;
     }
 };
