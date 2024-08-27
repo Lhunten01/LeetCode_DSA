@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0410-split-array-largest-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
