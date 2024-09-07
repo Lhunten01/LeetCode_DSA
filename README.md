@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
