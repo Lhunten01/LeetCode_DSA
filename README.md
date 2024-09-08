@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0048-rotate-image) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0078-subsets) |
