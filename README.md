@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -256,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
