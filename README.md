@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Lhunten01/LeetCode_DSA/tree/master/3212-count-the-number-of-good-partitions) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0079-word-search) |
 | [2047-find-a-peak-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0054-spiral-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
