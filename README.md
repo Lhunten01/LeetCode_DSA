@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
