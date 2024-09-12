@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0735-asteroid-collision](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0735-asteroid-collision) |
 | [2411-spiral-matrix-iv](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
