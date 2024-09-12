@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2411-spiral-matrix-iv](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Lhunten01/LeetCode_DSA/tree/master/3212-count-the-number-of-good-partitions) |
 ## Hash Table
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lhunten01/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
@@ -287,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lhunten01/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/Lhunten01/LeetCode_DSA/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
